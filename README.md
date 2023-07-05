@@ -4,4 +4,4 @@ Ola, Meu nome é Eliel👋
 
 < Gosto de aprender coisas novas 📝>
 
-< tenho noções de  Python, GML, JavaScript e Html 😀>
+< Python, GML, JavaScript e Html 😀>
