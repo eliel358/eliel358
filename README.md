@@ -19,3 +19,5 @@ Email: elielhenrique360flip@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=eliel358&icon=3&color=12)](https://visitcount.itsvg.in)
 
+
+<figure><embed src="https://wakatime.com/share/@9c020d0f-556f-4886-9ea5-501a6f8e4621/015f1f31-dbe1-4b0d-8fae-8b81c4bd14b3.svg"></embed></figure>
