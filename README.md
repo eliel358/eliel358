@@ -1,23 +1,65 @@
-# 💫 Sobre mim:
-< Amo programação, tech, skate e musica 💻🤖🛹🎶 ><br><br>< Gosto de aprender coisas novas 📝><br>
+<h2 align="center">Ola 👋! Meu nome é Eliel</h2>
 
+###
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliel.py) <br/>
-Email: elielhenriquedias07@gmail.com
+<br clear="both">
 
-# 💻 Tecnologias que eu uso:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eliel358&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliel358&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliel358&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=eliel358&theme=nord&no-frame=true&no-bg=true&row=1&column=7" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliel358&hide_border=true&theme=one-dark&custom_title=Contribui%C3%A7%C3%B5es&area=true" height="300" alt="activity-graph graph"  />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=eliel358&theme=dark&hide_border=true)
-<figure><embed src="https://wakatime.com/share/@9c020d0f-556f-4886-9ea5-501a6f8e4621/83df123b-7d51-4255-8179-bf2eb1d56e16.svg"></embed></figure>
+###
 
+<img align="right" height="150" src="https://2.bp.blogspot.com/-ChzlQQJpVZ4/WLmmUnR7upI/AAAAAAAADuA/ljhxR4C_KCIir6nvvXDvC_M1ltmu_Q7KgCLcB/s1600/giphy.gif"  />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eliel358&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+###
 
-[![](https://visitcount.itsvg.in/api?id=eliel358&icon=3&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+</div>
 
+###
 
-<figure><embed src="https://wakatime.com/share/@9c020d0f-556f-4886-9ea5-501a6f8e4621/015f1f31-dbe1-4b0d-8fae-8b81c4bd14b3.svg"></embed></figure>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/eliel358/eliel358/output/snake.svg" alt="Snake animation" />
+
+###
