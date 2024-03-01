@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=eliel358&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eliel358&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliel358&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=eliel358&theme=nord&no-frame=true&no-bg=true&row=1&column=7" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliel358&hide_border=true&theme=one-dark&custom_title=Contribui%C3%A7%C3%B5es&area=true" height="300" alt="activity-graph graph"  />
