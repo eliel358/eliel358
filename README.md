@@ -11,7 +11,7 @@ Email: elielhenriquedias07@gmail.com
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eliel358&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliel358&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<figure><embed src="https://wakatime.com/share/@9c020d0f-556f-4886-9ea5-501a6f8e4621/83df123b-7d51-4255-8179-bf2eb1d56e16.svg"></embed></figure>
 
 
 ## 🏆 GitHub Trophies
